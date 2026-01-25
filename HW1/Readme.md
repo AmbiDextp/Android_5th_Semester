@@ -1,9 +1,4 @@
 ### тема: Вселенная Ван-Пис
 
 ### Скриншоты:
-
-![текст](res/start.jpg)
-
-![текст](res/test.jpg)
-
-![текст](res/result.jpg)
+<img alt="текст" height="600" src="res/start.jpg" width="250"/> <img alt="текст" height="600" src="res/test.jpg" width="250"/><img alt="текст" height="600" src="res/result.jpg" width="250"/>
